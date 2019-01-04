@@ -1,0 +1,14 @@
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\bin\Debug\Trucos Numericos II.exe.config
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\bin\Debug\Trucos Numericos II.exe
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\bin\Debug\Trucos Numericos II.pdb
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\bin\Debug\Trucos Numericos II.xml
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\obj\Debug\Trucos_Numericos_II.GaussJordan.resources
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\obj\Debug\Trucos_Numericos_II.Inicio.resources
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\obj\Debug\Trucos_Numericos_II.Menu.resources
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\obj\Debug\Trucos_Numericos_II.Resources.resources
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\obj\Debug\Trucos Numericos II.vbproj.GenerateResource.Cache
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\obj\Debug\Trucos Numericos II.exe
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\obj\Debug\Trucos Numericos II.xml
+c:\users\moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\obj\Debug\Trucos Numericos II.pdb
+C:\Users\Moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\obj\Debug\Trucos Numericos II.vbprojResolveAssemblyReference.cache
+C:\Users\Moro\documents\visual studio 2013\Projects\Trucos Numericos II\Trucos Numericos II\obj\Debug\Trucos_Numericos_II.Metodos.resources
